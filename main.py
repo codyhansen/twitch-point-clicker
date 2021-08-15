@@ -6,10 +6,6 @@ import time
 from pynput.mouse import Button, Controller
 
 
-def get_monitors():
-    pass
-
-
 def main():
 
     mouse = Controller()
